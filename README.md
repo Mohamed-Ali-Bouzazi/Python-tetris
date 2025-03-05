@@ -8,9 +8,13 @@ Welcome to my fully programmed Tetris game, built from scratch using Python !
 Features
 
 ✅ Classic Tetris gameplay with smooth controls
+
 ✅ Score tracking to challenge yourself
+
 ✅ Different colored tetrominoes for a visually appealing experience
+
 ✅ Grid-based movement and collision handling
+
 ✅ Game-over detection and restart functionality
 
 Technologies Used
@@ -20,5 +24,7 @@ Python 🐍
 How to Play
 
 1️⃣ Use the arrow keys to move and rotate blocks
+
 2️⃣ Complete full lines to clear them and score points
+
 3️⃣ Survive as long as possible without filling up the board
