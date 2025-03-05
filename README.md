@@ -28,3 +28,7 @@ How to Play
 2️⃣ Complete full lines to clear them and score points
 
 3️⃣ Survive as long as possible without filling up the board
+
+4️⃣ Press "R" if you want to restart the game
+
+5️⃣ Press "Q" to quit the game
