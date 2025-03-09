@@ -23,6 +23,8 @@ Python 🐍
 
 How to Play
 
+First you have to download the "tetrisGame.exe" and enjoy using the following steps:
+
 1️⃣ Use the arrow keys to move and rotate blocks
 
 2️⃣ Complete full lines to clear them and score points
